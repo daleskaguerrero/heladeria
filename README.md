@@ -37,7 +37,7 @@ Esta es una aplicación de gestión para una heladería, diseñada para facilita
 ## Instalación
 1. Clonar el repositorio:
     ```bash
-    git clone [text](https://github.com/daleskaguerrero/heladeria)
+    git clone https://github.com/daleskaguerrero/heladeria
     cd aplicacion-heladeria
     ```
 
